@@ -1,6 +1,6 @@
 # European Entangled Atheisms Dumps Entities
 
-Automagically export data from [Baserow](https://baserow.io/) 
+Automagically export data from [Baserow](https://baserow.io/)
 
 ## initial (local) set up
 
@@ -13,6 +13,7 @@ Automagically export data from [Baserow](https://baserow.io/)
 * run `uv run src/dump_data.py`
 
 ## convert dumps to TEI/XML
+
 * adapt the TEI-Header in `tei-template.xml` to your needs
 * run `uv run src/make_tei.py`
 
