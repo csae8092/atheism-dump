@@ -22,7 +22,12 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "date_of_death": null
+    "date_of_death": null,
+    "gender": {
+      "id": 23640,
+      "value": "male",
+      "color": "dark-pink"
+    }
   },
   "2": {
     "id": 2,
@@ -41,6 +46,47 @@
     ],
     "date_of_birth": "1849-06-17",
     "place_of_death": [],
-    "date_of_death": null
+    "date_of_death": null,
+    "gender": {
+      "id": 23642,
+      "value": "not known",
+      "color": "darker-brown"
+    }
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "ea_id": "ea-id-person_3",
+    "label": "",
+    "last_name": "",
+    "first_name": "",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "gender": {
+      "id": 23642,
+      "value": "not known",
+      "color": "darker-brown"
+    }
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "ea_id": "ea-id-person_4",
+    "label": "",
+    "last_name": "",
+    "first_name": "",
+    "gnd_url": "",
+    "place_of_birth": [],
+    "date_of_birth": null,
+    "place_of_death": [],
+    "date_of_death": null,
+    "gender": {
+      "id": 23642,
+      "value": "not known",
+      "color": "darker-brown"
+    }
   }
 }

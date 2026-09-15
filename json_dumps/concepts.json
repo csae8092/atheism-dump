@@ -3,9 +3,9 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "ea_id": "ea-concept_1",
-    "label": "",
+    "label": "godlessness",
     "definition": "",
-    "translation": "translation@lang-iso-code",
+    "translation": "Gottlosigkeit@de| sans Dieu@fr",
     "part_of": [],
     "broad_match": [],
     "close_match": [],
@@ -15,9 +15,27 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "ea_id": "ea-concept_2",
-    "label": "",
+    "label": "free thought",
     "definition": "",
     "translation": null,
+    "part_of": [
+      {
+        "id": 3,
+        "value": "ea-concept_3",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "broad_match": [],
+    "close_match": [],
+    "related_concept": []
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "ea_id": "ea-concept_3",
+    "label": "enlightment",
+    "definition": "",
+    "translation": "",
     "part_of": [],
     "broad_match": [],
     "close_match": [],
