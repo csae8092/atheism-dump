@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "ea_id": "ea-concept_1",
+    "label": "",
+    "definition": "",
+    "translation": "translation@lang-iso-code",
+    "part_of": [],
+    "broad_match": [],
+    "close_match": [],
+    "related_concept": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "ea_id": "ea-concept_2",
+    "label": "",
+    "definition": "",
+    "translation": null,
+    "part_of": [],
+    "broad_match": [],
+    "close_match": [],
+    "related_concept": []
+  }
+}

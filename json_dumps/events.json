@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "ea_id": "ea-event_id1",
+    "label": "Russian Revolution of 1905",
+    "description": "The Russian Revolution of 1905,[a] also known as the First Russian Revolution,[b] was a revolution in the Russian Empire which began on 22 January 1905 and led to the establishment of a constitutional monarchy under the Russian Constitution of 1906, the country's first formal constitution.",
+    "start_date": "1905-01-22",
+    "end_date": "1907-06-16",
+    "wikidata_id": "https://www.wikidata.org/wiki/Q184928",
+    "related_place": [],
+    "related_person": []
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "ea_id": "ea-event_id2",
+    "label": "",
+    "description": "false",
+    "start_date": null,
+    "end_date": null,
+    "wikidata_id": "",
+    "related_place": [],
+    "related_person": []
+  }
+}

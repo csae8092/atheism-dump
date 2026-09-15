@@ -1,0 +1,42 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "ea_id": "ea-work_1",
+    "label": "Marx, Kapital",
+    "full_quote": "Das Kapital. Kritik der politischen Ökonomie,",
+    "year_of_publication": "1867",
+    "author": [
+      {
+        "id": 1,
+        "value": "ea-id-person_1",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "place_of_publication": [
+      {
+        "id": 3,
+        "value": "ea-place_3",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "part_of": [],
+    "type_of_work": {
+      "id": 23635,
+      "value": "book",
+      "color": "light-green"
+    }
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "ea_id": "ea-work_2",
+    "label": "",
+    "full_quote": "",
+    "year_of_publication": null,
+    "author": [],
+    "place_of_publication": [],
+    "part_of": [],
+    "type_of_work": null
+  }
+}

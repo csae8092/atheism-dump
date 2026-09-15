@@ -1,0 +1,38 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "ea_id": "ea-place_1",
+    "label": "Trier",
+    "geonames_url": "https://www.geonames.org/2821164/trier.html",
+    "lat": "49.75565",
+    "lng": "6.63935"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "ea_id": "ea-place_2",
+    "label": "London",
+    "geonames_url": "https://www.geonames.org/2643743/london.html",
+    "lat": "51.50853",
+    "lng": "-0.12574"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "ea_id": "ea-place_3",
+    "label": "Hamburg",
+    "geonames_url": "https://www.geonames.org/2911298/hamburg.html",
+    "lat": null,
+    "lng": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "ea_id": "ea-place_4",
+    "label": "Tbilisi",
+    "geonames_url": "https://www.geonames.org/611716",
+    "lat": null,
+    "lng": null
+  }
+}
